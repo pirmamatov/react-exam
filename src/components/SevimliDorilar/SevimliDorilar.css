@@ -1,0 +1,61 @@
+.sevimliWrapper {
+    width: 1440px;
+    margin: 0 auto;
+    margin-bottom: 690px;
+}
+.sevimliDorilarH1{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-left: 232px;
+    margin-top: 12px;
+    text-align: left;
+    color: rgba(40, 41, 56, 1);
+}
+.saqlanganWrapper {
+    position: relative;
+}
+.saqlanganImg {
+    position: absolute;
+    top: 180px;
+    left: 452px;
+}
+
+.saqlanganbarg {
+    position: absolute;
+    top: -40px;
+    left: 604px;
+    z-index: 20;
+}
+.message_s{
+    position: absolute;
+    top: 575px;
+    right: 104px;
+}
+.phone_s{
+    position: absolute;
+    top: 515px;
+    right:104px;
+}
+.phone_s {
+    width: 50px;
+    height: 50px;
+    background-color:   blue;
+    color: #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message_s {
+    width: 50px;
+    height: 50px;
+    background-color:   #53B175;
+    opacity: 90%;
+    color: #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

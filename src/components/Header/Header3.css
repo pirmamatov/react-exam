@@ -1,0 +1,190 @@
+.Header3 {
+    width: 1440px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    /* border: 1px solid; */
+}
+.list{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+    margin-top: 320px;
+}
+.list__item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    
+}
+.devil{
+    width: 70px;
+    height: 70px;
+    background: #c7f2d5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-radius: 5px;
+}
+.ver{
+    width: 32.5px;
+    height: 32px;
+    color:  #4daf71;
+}
+.containerHeader3 h3{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #1D1D1F;
+}
+.containerHeader3 p {
+    font-weight: 400;
+    font-size: 14px;
+    width: 176px;
+}
+
+.chiziq-past{
+    position: absolute;
+    left: 333px;
+    top: 1120px;
+    width: 1000px;
+    border: 1px solid #f4f3f3;;
+}
+.chiziq-tepa{
+    position: absolute;
+    left: 333px;
+    top: 1245px;
+    width: 1000px;
+    border: 1px solid #f4f3f3;;
+}
+.chpa:hover {
+    color: blue;
+border: 1px solid;
+position: absolute;
+    left: 333px;
+    top: 1245px;
+    width: 1000px;
+    /* background: linear-gradient(90deg, rgba(192, 204, 218, 0.1) 0%, rgba(192, 204, 218, 0.6) 50.38%, rgba(192, 204, 218, 0.1) 100%);; */
+}
+.chpap :hover{
+    /* background: linear-gradient(90deg, rgba(192, 204, 218, 0.1) 0%, rgba(192, 204, 218, 0.6) 50.38%, rgba(192, 204, 218, 0.1) 100%);; */
+color: blue;
+border: 1px solid;
+position: absolute;
+
+}
+
+.mahsulot {
+    width: 207px;
+    margin-left: 78px;
+    margin-top: 120px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282828;
+}
+.mahsulotAll{
+    gap: 43px;
+    margin: 64px auto;
+    display: flex;
+    flex-direction: row;
+    margin-left: 73px;
+}
+
+.mahsulot__list{
+    position: relative;
+    width: 222px;
+    height: 378px;
+    border-radius: 18px;
+    background-color: #e5e5e5fe;
+}
+.plus{
+    width: 46px;
+    height: 46px;
+    background: #53B175;
+    border-radius: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.plyus{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 25px;
+}
+.rohat{
+    position: absolute;
+    left: 13px;
+    top: 204px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color:  #181725;
+}
+.mavjud{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #7C7C7C;
+    position: absolute;
+    top: 232px;
+    left: 13px;
+}
+.skidka{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #808080;
+    position: absolute;
+    top: 266px;
+    left: 13px;
+}
+.uzs {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #53B175;
+    position: absolute;
+    top: 290px;
+    left: 13px;
+}
+.plus{
+    position: absolute;
+    left: 160px;
+    top: 271px;
+}
+.tafsilot{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #BDBDBD;
+    position: absolute;
+    left: 77px;
+    top: 338px;
+}
+.heart-mahsulot {
+    position: absolute;
+    top: 25px;
+    left: 180px;
+    width: 22px;
+    height: 19px;
+    color: red;
+    gap: 20px;
+}
+.mahsulot-btn{
+    border-radius: 30px;
+    padding: 13px 70px 13px 26px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: red;
+    margin-left: 108px;
+    display: flex;
+    align-items: center;
+    background: rgba(83, 177, 117, 0.1);
+    
+}

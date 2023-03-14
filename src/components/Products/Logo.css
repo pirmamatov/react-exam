@@ -1,0 +1,104 @@
+.products__wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    margin:  0 auto;
+}
+.products__bottom {
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+    margin-left: 233px;
+    margin-top: 75px;
+}
+.yashil__savatcha {
+    color: rgba(83, 177, 117, 1);
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    width: 323px;
+    justify-content: space-between;
+    margin-top: 64px;
+}.logo-h1{
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: -13px;
+}
+.page{
+    font-weight: 400;
+    font-size: 14px;
+    color: #2f4639;
+    margin-left: 13px;
+}
+
+
+.logo__head {
+    display: flex;
+    align-items: center ;
+    width: 410px;
+    height: 45px;
+    justify-content: space-between;
+    margin-left: 100px;
+    flex-direction: row;
+}
+.logo__h1 {
+    height: 39px;
+    width: 91px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.logo__pages {
+    display: flex;
+   width: 217px;
+   height: 31px;
+   gap: 26px;
+}
+.hover {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  rgba(40, 40, 40, 1);
+}
+.hover :hover{
+    font-weight: 600;
+    font-size: 16px;
+    color: #181725;
+}
+.logo__wrapper {
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    margin:  0 auto;
+    margin-top: 51px;
+}
+.logo__icons {
+    display: flex;
+    width: 76px;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.heart{
+    color: red;
+    width: 30px;
+    height: 30px;
+    background-color:   #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -4px 9px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.logo__icons {
+    margin-right: 200px;
+}

@@ -1,0 +1,20 @@
+.containerSectionTwo {
+    width: 1440px;
+    height: auto;
+    margin:  0 auto;
+}
+.reklama {
+    width: 1243px;
+    height: 155px;
+    gap: 24px;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
+.reklama img {
+    width: 200px;
+    height: auto;
+}
+.footer{
+    margin-top: 145px;
+}

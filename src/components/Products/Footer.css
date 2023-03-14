@@ -1,0 +1,236 @@
+.footer__img{
+    margin: 0 auto;
+}
+.footer {
+    position: relative;
+    width: 1440px;
+    height: 397px;
+    background-color: rgba(40, 40, 40, 1);
+    margin: 0 auto;
+    cursor: pointer;
+}
+.foter__logo {
+    position: absolute;
+    height: 39px;
+    width: 91px;
+    left: 100px;
+    top: 39px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.footer__text {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 100px;
+    top: 92px;
+}
+.footer_h5 {
+    position: absolute;
+    height: 24px;
+width: 317px;
+left: 0px;
+top: 74px;
+border-radius: nullpx;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+top: 165px;
+left: 100px;
+}
+.footer__text3 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #F4F5F7;
+    top: 79px;
+    left: 831px;
+}
+.footer__text4 {
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #F4F5F7;
+    top: 79px;
+    left: 1146px;
+}
+.playMarket {
+    position: absolute;
+    top: 131px;
+    left: 1146px;
+    height: 47.99976348876953px;
+    width: 161.9991912841797px;
+
+}
+.appStore {
+    position: absolute;
+    left: 1146px;
+    top: 208px;
+    height: 47.99976348876953px;
+    width: 161.9991912841797px;
+}
+.footer__green {
+    position: absolute;
+    cursor: pointer;
+    left: 6.94%;
+    right: 54.68%;
+    top: 63.31%;
+    bottom: 16.77%;
+    height: 95px;
+    width: 553px;
+    left: 100px;
+    top: 302px;
+    border-radius: [object Object]px;
+    background-color: rgba(83, 177, 117, 1);
+    border-radius: 25px 25px 0px 0px;
+}
+.footerEmail {
+    margin-top: 22px;
+    margin-left: 37px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.footerEmailT{
+margin-left: 37px;
+margin-top: 16px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+color: rgba(255, 255, 255, 1);
+
+}
+.QONGIROQ{
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    opacity: 0.6;
+    /* background-color: red; */
+    margin-left: 317px;
+    margin-top: -70px;
+}
+.footerNomer {
+    margin-top: 23px;
+    margin-left: 317px;
+    color: #FFFFFF;
+}
+
+.footer-icon {
+    height: 32px;
+    width: 32px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(40, 40, 40, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.6;
+    border-radius: 100%;
+}
+.icon_list {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    position: absolute;
+    left: 100px;
+    top: 207px;
+}
+.footericoncss {
+    color: #F4F5F7;
+}
+.footer__bottom {
+    position: relative;
+    width: 1440px;
+    background: #FFFFFF;
+    /* background-color: red; */
+    height: 80px;
+    margin: 0 auto;
+}
+.textTTT {
+    position: absolute;
+    height: 36px;
+    width: 529px;
+    left: 100px;
+    top: 22px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+.boshSahifaFooter {
+    position: absolute;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 1024px;
+    top: 26px;
+
+}
+.bizHaqimizdaFooter {
+    position: absolute;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 1134px;
+    top: 26px;
+
+}
+.yangiliklarFooter {
+    position: absolute;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 1261px;
+    top: 26px;
+}
+.colorWhite {
+    color: rgba(40, 41, 56, 1);
+}

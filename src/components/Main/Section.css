@@ -1,0 +1,192 @@
+.Section {
+    width: 1440px;
+    height: auto;
+    background-color: #FFFFFF;
+    /* border: 1px solid; */
+    margin: 0 auto;
+}
+.rasm6 {
+    margin-left: 29px;
+    margin-top: 95px;
+}
+.batafsil {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.savollar {
+    position: absolute;
+    left: 100px;
+    top: 70px;
+}
+.qoshimcha {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.qosh-btn {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+.savollarAll {
+    width: 805px;
+    height: 423px;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+.savollarAll li {
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    gap: 20px;
+}
+.savollarAll span {
+    color: rgba(83, 177, 117, 1);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.savollarAll p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+.plusLine{
+    position: absolute;
+    right: 300px;
+    color: rgba(40, 41, 56, 1);
+    opacity: 70%;
+}
+.boshqacha {
+    position: absolute;
+    top: 2505px;
+}
+.close-boshqacha {
+  position: absolute; 
+  right: -475px;
+  color: rgba(40, 41, 56, 1);
+  opacity: 70%;
+}
+.sorovnoma {
+    width: 1175px;
+    height: 929px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(83, 177, 117, 0.2)
+    rgba(255, 255, 255, 0);
+    /* border: 1px solid; */
+    position: relative;
+}
+.input-sorovnoma {
+    color: rgba(108, 114, 123, 0.5);
+    border-bottom: 1px solid;
+    width: 364px;
+    height: 50px;
+   
+}
+.sorovnomaList{
+    margin-top: 270px;
+    margin-left: 240px;
+}
+.sorovnomaImg {
+    margin-top: 320px;
+    width: 519px;
+    height: 402px;
+}
+.SorovnomaImgRasm7 {
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.input-email {
+    color: rgba(108, 114, 123, 0.5);
+    border-bottom: 1px solid;
+    width: 364px;
+    height: 50px;
+    
+}
+.input-tel {
+    color: rgba(108, 114, 123, 0.5);
+    border-bottom: 1px solid;
+    width: 364px;
+    height: 50px;
+    
+}
+.sorovnomaInputs {
+    display: flex;
+    flex-direction: column;
+    
+    gap: 88px;
+}
+.bizbn {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(83, 177, 117, 1);
+    
+}
+.sorovnomaH1 {
+    font-weight: 600;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    font-family: "poppins";
+    line-height: 37.5px;
+    margin-top: 14px;
+}
+.xabarYuborish {
+height: 44px;
+width: 213px;
+background-color:rgba(83, 177, 117, 0.2);
+border-radius: 50px;
+margin-top: 50px;
+}
+
+.tomchiImg {
+    position: absolute;
+    left: 0;
+    background-color: rgba(83, 177, 117, 0.2)
+    rgba(255, 255, 255, 0);
+    height: 929px;
+width: 1175.73046875px;
+
+}
+.qoshimcha {
+   padding-top: 25px;
+   
+}
+.qosh-btn {
+    padding-top: 15px;
+    margin: 15px;
+    justify-content: center;
+    background: rgba(83, 177, 117, 0.2);
+    width: 200px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+}
+.formValidation {
+    width: 364px;
+    /* height: 450px; */
+    padding: 15px 15px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-left: 800px;
+    background: rgba(83, 177, 117, 0.2);
+    /* opacity: 0.3; */
+    /* align-items: center; */
+    justify-content: center;
+    border-radius: 25px;
+}
+.iltimos {
+    width: 2000px;
+}
+.nuqta {
+    margin-left: 800px;
+   
+}
+.accordion {
+    width: 808px;
+   
+    margin: 30px 30px 50px 516px;
+}

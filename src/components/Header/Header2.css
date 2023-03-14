@@ -1,0 +1,153 @@
+.Header2{
+    width: 1440px;
+    height: 787px;
+    background: #ade2c3;
+    margin: 0 auto;
+    position: relative;
+}
+.heart{
+    color: red;
+    width: 30px;
+    height: 30px;
+    background-color:   #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.cart{
+    color: #505050;
+    cursor: pointer;
+}
+
+.Header2-first {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1140px;
+    margin-left: 100px;
+    
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    width: 323px;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    width: 73px;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+.logo-h1{
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: -13px;
+    color: #181725;
+}
+.page{
+    font-weight: 400;
+    font-size: 14px;
+    color: #2f4639;
+    margin-left: 13px;
+}
+.hover :hover{
+    font-weight: 600;
+    font-size: 16px;
+    color: #181725;
+}
+.bepul{
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+}
+.Header2-second{
+    display: flex;
+    flex-direction: column  ;
+    align-items: center;
+    gap: 13px;
+    margin-top: 200px;
+}
+.mobil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #53B175;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.boyi{
+    width: 410px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.Header2-three{
+    position: absolute;
+    top: 467px;
+    left: 302px;
+}
+.Header2-three .rasm {
+    width: 836px;
+    height: 500px;
+}
+.rasm2{
+    position: absolute;
+    width: 258px;
+    height: 188px;
+    left: -72px;
+    top: 209px;
+}
+.rasm3{
+    position: absolute;
+    top: 293px;
+    left: 650px;
+    width: 258px;
+    height: 188px;
+}
+.phone {
+    width: 50px;
+    height: 50px;
+    background-color:   blue;
+    color: #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message {
+    width: 50px;
+    height: 50px;
+    background-color:   #53B175;
+    opacity: 90%;
+    color: #FFFFFF;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message{
+    position: absolute;
+    top: 335px;
+    right: -100px;
+}
+.phone{
+    position: absolute;
+    top: 235px;
+    right: -100px;
+}
+.tel {
+    width: 20px;
+    height: 20px;
+  
+}
+.mes {
+    width: 20px;
+    height: 20px;
+}
